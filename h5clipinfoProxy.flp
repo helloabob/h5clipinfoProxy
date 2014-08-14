@@ -1,0 +1,21 @@
+﻿<flash_project name="h5clipinfoProxy" version="1">
+	<project_file path="./h5clipinfoProxy.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./h5clipinfoProxy.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/RequestBase.as" filetype="as"/>
+	<project_file path="./vrs/GetPlayInfo.as" filetype="as"/>
+	<project_file path="./ugc/GetPlayInfoUgc.as" filetype="as"/>
+	<project_file path="./hot/GetHotSpot.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/RequestDat.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/Trace.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/Promise.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/Request.as" filetype="as"/>
+	<project_file path="./vrs/PlayInfoParser.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/Tools.as" filetype="as"/>
+	<project_file path="./ugc/PlayInfoParserUgc.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/AppLoader.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/Json.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/RequestDatType.as" filetype="as"/>
+	<project_file path="./vsin/dcw/support/net/RequestResponseType.as" filetype="as"/>
+	<project_file path="./vrs/GetPlayUrl.as" filetype="as"/>
+	<project_file path="./vrs/PlayUrlParser.as" filetype="as"/>
+</flash_project>
